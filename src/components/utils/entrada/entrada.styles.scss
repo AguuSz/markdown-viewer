@@ -1,0 +1,16 @@
+.entrada {
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px black;
+    margin: 20px 0;
+    
+    .titulo{
+        .titulo:after {
+            content: '';
+            border: 1px solid black;
+            width: 100%;
+
+
+        }
+    }
+}
